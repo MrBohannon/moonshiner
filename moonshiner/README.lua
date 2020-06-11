@@ -14,6 +14,7 @@ job made for redem_roleplay redm_camping
 2. Extract the zip.
 3. Put moonshiner to your resource folder.
 4. Add "start moonshiner" in your "server.cfg".
+5. Add "sugar" & "water" to redemrp_inventory
 
 
 # Required resource
